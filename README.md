@@ -10,7 +10,7 @@ This project is a basic website designed to experiment with Tailwind CSS 🚀. I
 - Responsive design for various screen sizes.
 
 ### View the Website 🌐:
-You can check out the website [here](https://titah-ismail.github.io/Tailwind-css/).
+You can check out the website [here](https://titah-ismail.github.io/tailwind-css/).
 
 ### Usage 🖥️:
 1. Clone the repository to your local machine.
